@@ -75,7 +75,7 @@ social-network-links:
   github: JohnMorrisonn
   twitter: John_J_Morrison
 #  reddit: yourname
-  linkedin: JohnMorrisonn
+  linkedin: johnjmorrisonn
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -90,7 +90,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
