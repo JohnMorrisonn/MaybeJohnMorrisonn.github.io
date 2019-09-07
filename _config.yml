@@ -26,7 +26,7 @@ navbar-links:
     - Github: "https://github.com/JohnMorrisonn"
     - Medium: "https://medium.com/@jjosephmorrison"
     - Twitter: "https://twitter.com/John_J_Morrison"
-  # Author's home: "http://deanattali.com"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,11 +43,11 @@ avatar: "/IMG_1545.jpeg"
 navbar-col: "#34495E"
 navbar-text-col: "#D0D3D4"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#F4F6F7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#34495E"
+footer-text-col: "#D0D3D4"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: John Morrison
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,12 +70,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "jjosephmorrison@gmail.com"
+#  facebook: deanattali
   github: JohnMorrisonn
-  twitter: daattali
+  twitter: John_J_Morrison
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: JohnMorrisonn
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
